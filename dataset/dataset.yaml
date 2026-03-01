@@ -1,0 +1,6 @@
+path: D:/作业/机器学习/大作业/软件/wildlife_monitor_313/dataset  # 保持不变
+train: images  # 相对path的图片路径（因为你的图片在dataset/images下）
+val: images    # 用训练集图片当验证集（无单独验证集时这么写）
+
+names:
+  0: deer  # 保持不变
